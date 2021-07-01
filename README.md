@@ -1,7 +1,7 @@
 ### Hello!
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=krithravi&count_private=true&show_icons=true&hide_rank=true&theme=cobalt)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=krithravi&layout=compact&theme=cobalt&langs_count=6)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=krithravi&layout=compact&hide=css&theme=cobalt&langs_count=6)
 
 🌱 I’m currently learning ...
 - Data science :)
