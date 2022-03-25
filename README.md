@@ -1,11 +1,15 @@
-### Hello!
+### Howdy!
 
-😄 Pronouns: she/her
+Hi, I'm Krithika! I'm a CS student at UT Austin.
+
+I like testing new software and customizing my setups!
+- Take a look at my [dotfiles](https://github.com/krithravi/dotfiles)!
+- Check out my related [blog](https://krithravi.com/blog)!
+
 
 🌱 I’m currently learning ...
-- Data science :)
-- About reptiles, amphibians, cephalopods, and annelids
-- Spanish, French, Hindi, Russian
+- NLP!
+- Spanish, French, Hindi/Urdu, Russian
 
 <!--
 **krithravi/krithravi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
