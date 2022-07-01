@@ -8,7 +8,7 @@ I like testing new software and customizing my setups!
 
 
 🌱 I’m currently learning ...
-- NLP!
+- Data Science!
 - Spanish, French, Hindi/Urdu, Russian
 
 <!--
