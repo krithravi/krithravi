@@ -1,15 +1,10 @@
 ### Howdy!
 
-Hi, I'm Krithika! I'm a CS student at UT Austin.
+Hi, I'm Krithika! 
 
 I like testing new software and customizing my setups!
 - Take a look at my [dotfiles](https://github.com/krithravi/dotfiles)!
 - Check out my related [blog](https://krithravi.com/blog)!
-
-
-🌱 I’m currently learning ...
-- Data Science!
-- Spanish, French, Hindi/Urdu, Russian
 
 <!--
 **krithravi/krithravi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
